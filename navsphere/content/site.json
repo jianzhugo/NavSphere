@@ -5,8 +5,8 @@
     "keywords": "设计导航,设计资源,设计工具,设计素材,设计教程"
   },
   "appearance": {
-    "logo": "/AIlogo.png",
-    "favicon": "/AIFavicon.png",
+    "logo": "/logo.png",
+    "favicon": "/favicon.png",
     "theme": "system"
   }
 }
